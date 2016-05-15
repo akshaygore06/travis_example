@@ -8,7 +8,6 @@ int main()
 	int x = 2;
 	int y = 3;
 	int z = 0;
-
 	z = x + y;
 
 	assert(z == 5);
