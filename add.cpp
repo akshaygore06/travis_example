@@ -11,6 +11,7 @@ int main()
 	z = x + y;
 
 	assert(z == 5);
+
 	cout << "value of z is 5"<<endl;
 
 	return 0;
